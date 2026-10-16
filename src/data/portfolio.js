@@ -108,6 +108,28 @@ export const SERVICES = [
 
 export const PROJECTS = [
   {
+    name: "CraveHub",
+    tagline: "Food Delivery App",
+    description:
+      "Modern food delivery app — 8 kitchens with full menus, cart & promo codes, validated checkout and animated live order tracking with a rider route map.",
+    tech: ["React", "Tailwind CSS", "Framer Motion"],
+    live: "https://cravehub-muhammad-shahzaibs-projects-16858ef3.vercel.app",
+    repo: "https://github.com/MuhammadShahzaib1423/CraveHub",
+    featured: true,
+    accent: "amber",
+  },
+  {
+    name: "HavenEstates",
+    tagline: "Real Estate Platform",
+    description:
+      "Elegant real estate platform — verified listings with filters, photo galleries with lightbox, mortgage calculator with animated charts and viewing-request flow.",
+    tech: ["React", "Tailwind CSS", "Framer Motion"],
+    live: "https://havenestates-muhammad-shahzaibs-projects-16858ef3.vercel.app",
+    repo: "https://github.com/MuhammadShahzaib1423/HavenEstates",
+    featured: true,
+    accent: "emerald",
+  },
+  {
     name: "JobPilot",
     tagline: "Job Application Tracker",
     description:
