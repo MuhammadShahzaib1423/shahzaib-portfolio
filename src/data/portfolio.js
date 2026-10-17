@@ -108,6 +108,28 @@ export const SERVICES = [
 
 export const PROJECTS = [
   {
+    name: "WanderWise",
+    tagline: "Travel Booking Website",
+    description:
+      "Travel booking platform — 8 fictional destinations with search, filters and sorting, photo galleries with lightbox, day-by-day itineraries and a validated multi-step booking flow.",
+    tech: ["React", "Tailwind CSS", "Framer Motion"],
+    live: "https://wanderwise-muhammad-shahzaibs-projects-16858ef3.vercel.app",
+    repo: "https://github.com/MuhammadShahzaib1423/WanderWise",
+    featured: true,
+    accent: "amber",
+  },
+  {
+    name: "PulseFit",
+    tagline: "Gym & Fitness Website",
+    description:
+      "Gym and fitness club website — trainer profiles, class schedule with booking, interactive BMI calculator and animated membership plans, all with scroll-triggered motion design.",
+    tech: ["React", "Tailwind CSS", "Framer Motion"],
+    live: "https://pulsefit-muhammad-shahzaibs-projects-16858ef3.vercel.app",
+    repo: "https://github.com/MuhammadShahzaib1423/PulseFit",
+    featured: true,
+    accent: "emerald",
+  },
+  {
     name: "CraveHub",
     tagline: "Food Delivery App",
     description:
