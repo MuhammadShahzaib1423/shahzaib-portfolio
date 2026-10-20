@@ -108,6 +108,28 @@ export const SERVICES = [
 
 export const PROJECTS = [
   {
+    name: "MediBook",
+    tagline: "Doctor Appointment Booking",
+    description:
+      "Doctor appointment booking platform with speciality search, doctor profiles, 3-step slot booking and appointment management.",
+    tech: ["React", "Tailwind CSS", "Framer Motion"],
+    live: "https://medibook-muhammad-shahzaibs-projects-16858ef3.vercel.app",
+    repo: "https://github.com/MuhammadShahzaib1423/MediBook",
+    featured: true,
+    accent: "emerald",
+  },
+  {
+    name: "FinFlow",
+    tagline: "Personal Finance Dashboard",
+    description:
+      "Personal finance dashboard with animated charts, transaction tracking, category budgets and savings goals.",
+    tech: ["React", "Tailwind CSS", "Framer Motion", "Recharts"],
+    live: "https://finflow-muhammad-shahzaibs-projects-16858ef3.vercel.app",
+    repo: "https://github.com/MuhammadShahzaib1423/FinFlow",
+    featured: true,
+    accent: "amber",
+  },
+  {
     name: "WanderWise",
     tagline: "Travel Booking Website",
     description:
