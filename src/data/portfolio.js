@@ -108,6 +108,17 @@ export const SERVICES = [
 
 export const PROJECTS = [
   {
+    name: "PlayArena",
+    tagline: "Indoor Sports Booking",
+    description:
+      "Indoor sports booking platform — 8 fictional venues across Rawalpindi and Islamabad for padel, indoor cricket, badminton, futsal, squash and table tennis, with court selection, slot booking and booking management.",
+    tech: ["React", "Tailwind CSS", "Framer Motion"],
+    live: "https://playarena-muhammad-shahzaibs-projects-16858ef3.vercel.app",
+    repo: "https://github.com/MuhammadShahzaib1423/PlayArena",
+    featured: true,
+    accent: "emerald",
+  },
+  {
     name: "MediBook",
     tagline: "Doctor Appointment Booking",
     description:
