@@ -108,6 +108,17 @@ export const SERVICES = [
 
 export const PROJECTS = [
   {
+    name: "ParcelDesk",
+    tagline: "Order Desk for Social Sellers",
+    description:
+      "Link-in-bio order desk for Instagram, TikTok and WhatsApp sellers in Pakistan — validated cash-on-delivery order capture, customer confirmation loop with expiry countdown, buyer trust score, duplicate-order guard, city return-risk board and seller dashboard with courier sheet export.",
+    tech: ["React", "Tailwind CSS", "Framer Motion"],
+    live: "https://parceldesk-muhammad-shahzaibs-projects-16858ef3.vercel.app",
+    repo: "https://github.com/MuhammadShahzaib1423/ParcelDesk",
+    featured: true,
+    accent: "emerald",
+  },
+  {
     name: "AutoLux",
     tagline: "Buy, Sell & Rent Cars",
     description:
