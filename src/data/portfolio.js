@@ -108,6 +108,17 @@ export const SERVICES = [
 
 export const PROJECTS = [
   {
+    name: "AutoLux",
+    tagline: "Buy, Sell & Rent Cars",
+    description:
+      "Elegant car marketplace — 9 fictional cars across 4 cities with search and filters, buy and rental listings, rent and finance calculators, booking flow and sell-your-car form.",
+    tech: ["React", "Tailwind CSS", "Framer Motion"],
+    live: "https://autolux-muhammad-shahzaibs-projects-16858ef3.vercel.app",
+    repo: "https://github.com/MuhammadShahzaib1423/AutoLux",
+    featured: true,
+    accent: "amber",
+  },
+  {
     name: "PlayArena",
     tagline: "Indoor Sports Booking",
     description:
